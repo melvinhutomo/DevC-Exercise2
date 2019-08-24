@@ -1,0 +1,10 @@
+body{
+    background: brown;
+    margin: 50px 10px;
+    border: 1px solid black;
+    padding: 3rem;
+}
+
+.calc{
+    margin: 100px 500px;
+}
